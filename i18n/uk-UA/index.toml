@@ -1019,10 +1019,6 @@ description = "Search and browse thousands of Minecraft {searchType, select,mods
 [search.top-link]
 skip-to-results = "Skip to search results"
 
-[search.collapsible]
-show = "More"
-hide = "Less"
-
 [search.controls.action]
 toggle-filters = "Filters..."
 
@@ -1283,3 +1279,6 @@ label = "Bio"
 admin = "Modrinth Team"
 moderator = "Moderator"
 creator = "Creator"
+
+[test]
+test-key = "UwU !"
