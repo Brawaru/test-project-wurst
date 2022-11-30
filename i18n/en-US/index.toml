@@ -1009,10 +1009,6 @@ quickly find the best Minecraft {searchType, select,\
 }."""
 top-link.skip-to-results = "Skip to search results"
 
-[search.collapsible]
-show = "More"
-hide = "Less"
-
 [search.controls]
 action.toggle-filters = "Filters..."
 field.search.label = "Search"
@@ -1250,3 +1246,7 @@ user-id = "User ID: {id}"
 admin = "Modrinth Team"
 moderator = "Moderator"
 creator = "Creator"
+
+[test]
+# owo??
+test-string = "Yee haw!!!"
